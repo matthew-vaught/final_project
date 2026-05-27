@@ -1,0 +1,5 @@
+outs:
+- md5: ab7faa5d0307948e3b9fe520069d2ec4
+  size: 373650953
+  hash: md5
+  path: snotel_daily_raw.csv

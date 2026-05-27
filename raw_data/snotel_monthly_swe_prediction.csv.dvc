@@ -1,0 +1,5 @@
+outs:
+- md5: e68999b89909439468fd8ba4bf4a5e37
+  size: 102181054
+  hash: md5
+  path: snotel_monthly_swe_prediction.csv
